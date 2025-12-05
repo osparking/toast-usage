@@ -1,3 +1,6 @@
+# 토스트 프로젝트 로컬 위치:
+- /c/Users/jbpar/react/learn/toast-usage
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
